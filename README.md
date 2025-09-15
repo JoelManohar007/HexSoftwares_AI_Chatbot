@@ -13,7 +13,7 @@ This is a rule-based AI chatbot project for the HexSoftwares internship submissi
 3. Interact with the chatbot in your browser
 
 ## Demo
-[Watch the vide0][Chatbot AI.mp4]
+[Watch the video](Chatbot AI.mp4)
 
 ## Author
 Joel Manohar
