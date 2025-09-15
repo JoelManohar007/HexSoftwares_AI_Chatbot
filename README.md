@@ -13,6 +13,6 @@ This is a rule-based AI chatbot project for the HexSoftwares internship submissi
 3. Interact with the chatbot in your browser
 
 ## Demo
-[Watch the video on google drive](https://drive.google.com/file/d/1Qoq1maqK1YHJFNH1G2d1U0eseIRPZz4T/view?usp=drive_link)
+[Watch the video on google drive](https://drive.google.com/file/d/1jTibTmG-ju0cKjB9UFcVQGNqoLk4bs5o/view?usp=sharing)
 ## Author
 Joel Manohar
